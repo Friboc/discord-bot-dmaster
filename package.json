@@ -1,0 +1,13 @@
+{
+  'name': 'DMaster',
+  'description': 'Roleplay system',
+  'version': '0.0.0',
+  'main': 'dmaster.js',
+  'scripts': {
+    'start': 'node dmaster.js'
+  },
+  'dependencies': {
+    'discord.js': '11.1.0',
+    'request': '2.81.0'
+  }
+}
