@@ -1,1 +1,1 @@
-worker: node dmaster.js
+worker: npm start
